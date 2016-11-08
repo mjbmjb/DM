@@ -41,6 +41,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-.pyc
-.txt
+*.pyc
+*.txt
 ./test/*
