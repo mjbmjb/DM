@@ -44,3 +44,4 @@ Temporary Items
 *.pyc
 *.txt
 ./test/*
+*.tar.gz
